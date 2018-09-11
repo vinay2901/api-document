@@ -1,0 +1,19 @@
+{
+  "name": "api-document",
+  "version": "1.0.4",
+  "description": "saves the request, response and request method to file",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "saveresponse",
+    "apidocumentation",
+    "express-middleware"
+  ],
+  "author": "vinay",
+  "license": "ISC"
+}
